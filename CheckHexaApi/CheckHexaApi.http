@@ -1,0 +1,6 @@
+@CheckHexaApi_HostAddress = http://localhost:5017
+
+GET {{CheckHexaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

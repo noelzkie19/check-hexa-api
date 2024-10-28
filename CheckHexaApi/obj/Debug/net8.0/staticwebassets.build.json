@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1wdmtvavzupXuupR6XJHyuN5mR0uPMKZmbwiFonU2Gc=",
+  "Source": "CheckHexaApi",
+  "BasePath": "_content/CheckHexaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

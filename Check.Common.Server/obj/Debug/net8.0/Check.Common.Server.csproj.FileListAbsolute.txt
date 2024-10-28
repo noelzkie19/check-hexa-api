@@ -1,0 +1,12 @@
+C:\Users\Noel Peterson\Documents\CheckHexaApi\Check.Common.Server\bin\Debug\net8.0\Check.Common.Server.deps.json
+C:\Users\Noel Peterson\Documents\CheckHexaApi\Check.Common.Server\bin\Debug\net8.0\Check.Common.Server.dll
+C:\Users\Noel Peterson\Documents\CheckHexaApi\Check.Common.Server\bin\Debug\net8.0\Check.Common.Server.pdb
+C:\Users\Noel Peterson\Documents\CheckHexaApi\Check.Common.Server\obj\Debug\net8.0\Check.Common.Server.csproj.AssemblyReference.cache
+C:\Users\Noel Peterson\Documents\CheckHexaApi\Check.Common.Server\obj\Debug\net8.0\Check.Common.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noel Peterson\Documents\CheckHexaApi\Check.Common.Server\obj\Debug\net8.0\Check.Common.Server.AssemblyInfoInputs.cache
+C:\Users\Noel Peterson\Documents\CheckHexaApi\Check.Common.Server\obj\Debug\net8.0\Check.Common.Server.AssemblyInfo.cs
+C:\Users\Noel Peterson\Documents\CheckHexaApi\Check.Common.Server\obj\Debug\net8.0\Check.Common.Server.csproj.CoreCompileInputs.cache
+C:\Users\Noel Peterson\Documents\CheckHexaApi\Check.Common.Server\obj\Debug\net8.0\Check.Common.Server.dll
+C:\Users\Noel Peterson\Documents\CheckHexaApi\Check.Common.Server\obj\Debug\net8.0\refint\Check.Common.Server.dll
+C:\Users\Noel Peterson\Documents\CheckHexaApi\Check.Common.Server\obj\Debug\net8.0\Check.Common.Server.pdb
+C:\Users\Noel Peterson\Documents\CheckHexaApi\Check.Common.Server\obj\Debug\net8.0\ref\Check.Common.Server.dll

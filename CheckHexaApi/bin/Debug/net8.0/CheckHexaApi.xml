@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CheckHexaApi</name>
+    </assembly>
+    <members>
+        <member name="T:CheckHexaApi.Controllers.AuthenticateController">
+            <summary>
+            Handles user authentication tasks.
+            </summary>
+        </member>
+        <member name="M:CheckHexaApi.Controllers.AuthenticateController.#ctor">
+            <summary>
+            Handles user authentication tasks.
+            </summary>
+        </member>
+        <member name="M:CheckHexaApi.Controllers.AuthenticateController.CheckAuthentication">
+            <summary>
+            Check Authentication
+            </summary>
+            <response code="400">Bad Request - Invalid Request</response>
+            <response code="401">Unauthorized</response>
+            <response code="500">HTTP Internal Server Error</response>
+        </member>
+        <member name="M:CheckHexaApi.Controllers.AuthenticateController.Callback(System.String)">
+            <summary>
+            CIDA Callback
+            </summary>
+            <response code="400">Bad Request - Invalid Request</response>
+            <response code="401">Unauthorized</response>
+            <response code="500">HTTP Internal Server Error</response>
+        </member>
+        <member name="T:CheckHexaApi.MiddleWares.MiddlewareExtensions">
+            <summary>
+            Use Middleware for Cida Authentication
+            </summary>
+        </member>
+        <member name="M:CheckHexaApi.MiddleWares.MiddlewareExtensions.AddCidaAuthentication(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String)">
+            <summary>
+            Add Cida Authentication
+            </summary>
+        </member>
+        <member name="M:CheckHexaApi.MiddleWares.MiddlewareExtensions.UseCidaAuthentication(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Use Middleware for Cida Authentication
+            </summary>
+        </member>
+        <member name="T:CheckHexaApi.Models.Shared.IAppSettings">
+            <summary>
+            Handles app settings config.
+            </summary>
+        </member>
+        <member name="P:CheckHexaApi.Models.Shared.IAppSettings.AllowedOrigins">
+            <summary>
+            Appsettings properties
+            </summary>
+        </member>
+        <member name="T:CheckHexaApi.Models.Shared.AppSettings">
+            <summary>
+            Appsettings properties
+            </summary>
+        </member>
+        <member name="P:CheckHexaApi.Models.Shared.AppSettings.AllowedOrigins">
+            <summary>
+            Appsettings properties
+            </summary>
+        </member>
+        <member name="T:CheckHexaApi.Startup">
+            <summary>
+            Handles start up tasks.
+            </summary>
+        </member>
+        <member name="M:CheckHexaApi.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Handles start up tasks.
+            </summary>
+        </member>
+        <member name="P:CheckHexaApi.Startup.Configuration">
+            <summary>
+            Handles configuration
+            </summary>
+        </member>
+        <member name="M:CheckHexaApi.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Handles configuration tasks.
+            </summary>
+        </member>
+    </members>
+</doc>
